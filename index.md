@@ -1,4 +1,6 @@
-## Portfolio
+# Portfolio
+---
+👥 LinkedIn | ✉️ Email | :octocat: GitHub
 
 ---
 
