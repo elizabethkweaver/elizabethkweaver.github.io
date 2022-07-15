@@ -5,6 +5,7 @@
 ---
 
 ## Certification
+<img src="images/google-data-analytics-certificate-badge.png"/>
 
 ---
 
