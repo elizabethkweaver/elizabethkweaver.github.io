@@ -1,10 +1,12 @@
 # Portfolio
 ---
 👥 LinkedIn | ✉️ Email | 🐙 GitHub
+
 ---
 
 ## Certification
 
+---
 
 ## Projects
 
