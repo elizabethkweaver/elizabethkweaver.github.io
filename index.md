@@ -1,12 +1,10 @@
 # Portfolio
 ---
-<center>👥 LinkedIn   |   ✉️ Email   |   🐙 GitHub</center>
-
-
----
 
 ## Google Data Analytics Certificate 🛡️
-To continue honing my analytical skills outside of the workplace, I enrolled in Google's Data Analytics Professional Certificate program via Coursera. I earned the Google Data Analytics Professional Certificate in May 2022. Woohoo! View my certificate here:
+To continue honing my analytical skills outside of the workplace, I enrolled in Google's Data Analytics Professional Certificate program via Coursera. I earned the Google Data Analytics Professional Certificate in May 2022. Woohoo! 
+
+View my certificate here:
 
 [Elizabeth Weaver - Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PPEAD2Y7NGYW "Google Data Analytics Professional Certificate")
 <center><img src="images/google-data-analytics-certificate-badge.png" width="40%"/></center>
