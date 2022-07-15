@@ -8,7 +8,7 @@
 I earned the Google Data Analytics Professional Certificate in May 2022, via Coursera. View my certificate here:
 
 [Elizabeth Weaver - Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PPEAD2Y7NGYW "Google Data Analytics Professional Certificate")
-<center><img src="images/google-data-analytics-certificate-badge.png" width="20%"/></center>
+<center><img src="images/google-data-analytics-certificate-badge.png" width="40%"/></center>
 
 ---
 
