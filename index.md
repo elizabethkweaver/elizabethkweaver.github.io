@@ -5,7 +5,7 @@
 ---
 
 ## Certification
-<img src="images/google-data-analytics-certificate-badge.png"/>
+<center><img src="images/google-data-analytics-certificate-badge.png" width="20%"/></center>
 
 ---
 
