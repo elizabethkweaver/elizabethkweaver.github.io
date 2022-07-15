@@ -37,6 +37,10 @@
       <section>
 
       {{ content }}
+      
+      {% if site.logo %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+      {% endif %}
 
       </section>
       <footer>
