@@ -1,6 +1,6 @@
 # Portfolio
 ---
-👥 LinkedIn | ✉️ Email | 🐙 GitHub
+<center>👥 LinkedIn   |   ✉️ Email   |   🐙 GitHub</center>
 
 ---
 
