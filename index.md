@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-👥 View My LinkedIn Profile 📊 Check Out My Tableau Public Vizzes ✉️ Contact Me
+👥 View My LinkedIn Profile   📊 Check Out My Tableau Public Vizzes   ✉️ Contact Me
 
 ---
 ## Google Data Analytics Professional Certificate 🛡️
