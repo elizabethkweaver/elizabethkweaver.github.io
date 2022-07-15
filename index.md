@@ -1,6 +1,9 @@
 # Portfolio
 ---
 
+👥 View My LinkedIn Profile   |   📊 Check Out My Tableau Public Vizzes   |   ✉️ Contact Me
+
+---
 ## Google Data Analytics Professional Certificate 🛡️
 To continue honing my analytical skills outside of the workplace, I enrolled in Google's Data Analytics Professional Certificate program via Coursera. I earned the Google Data Analytics Professional Certificate in May 2022. Woohoo! 
 
